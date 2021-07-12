@@ -1,0 +1,6 @@
+export const SET_LOADING = 'SET_LOADING'
+export const SET_ERROR = 'SET_ERROR'
+export const SET_CARD = 'SET_CARD'
+export const SET_SET = 'SET_SET'
+export const SET_FAVOURITE = 'SET_FAVOURITE'
+export const SET_SELECTED = 'SET_SELECTED'

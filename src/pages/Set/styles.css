@@ -1,0 +1,16 @@
+#details {
+  color:  #8C7D70;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+
+td, th {
+  vertical-align: middle;
+  text-align: center;
+
+}
+.name {
+  text-align: left !important;
+}
+
